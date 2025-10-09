@@ -1,11 +1,11 @@
 ---ALFA--- 
-Nombre:
-Apellido:
+Nombre: Tamara
+Apellido: Cortes
 
 ---BETA--- 
 Nombre: Fausto
 Apellido: Durzo
 
 ---GAMMA--- 
-Nombre:Casas
+Nombre: Casas
 Apellido: Gabriel Humberto
