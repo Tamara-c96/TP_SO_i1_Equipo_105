@@ -15,4 +15,4 @@ a- Si (Alfa)
 b- Si (Alfa)
 c-
 d-
-e-
+e- Dejando comentarios en los archivos usando git commit -m "mensaje" (Gamma)

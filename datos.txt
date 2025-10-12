@@ -1,1 +1,14 @@
-hola
+---ALFA--- 
+Nombre: Tamara
+Apellido: Cortes
+
+
+---BETA--- 
+Nombre: Fausto
+Apellido: Durzo
+
+---GAMMA--- 
+Nombre: Casas
+Apellido: Gabriel Humberto
+Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.30
+Hora: Thu Oct  9 17:05:19     2025
