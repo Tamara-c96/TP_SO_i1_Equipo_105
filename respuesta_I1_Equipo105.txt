@@ -9,3 +9,10 @@ Apellido: Durzo
 ---GAMMA--- 
 Nombre: Casas
 Apellido: Gabriel Humberto
+
+
+a- Si (Alfa)
+b- Si (Alfa)
+c-
+d-
+e-
