@@ -13,6 +13,6 @@ Apellido: Gabriel Humberto
 
 a- Si (Alfa)
 b- Si (Alfa)
-c-
-d-
+c- Si (Beta)
+d- Utilizando medios como WhatsApp y Discord (Beta)
 e- Dejando comentarios en los archivos usando git commit -m "mensaje" (Gamma)
