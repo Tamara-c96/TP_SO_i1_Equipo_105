@@ -6,7 +6,8 @@ Apellido: Cortes
 ---BETA--- 
 Nombre: Fausto
 Apellido: Durzo
-
+Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.12
+Hora: 22:46
 ---GAMMA--- 
 Nombre: Casas
 Apellido: Gabriel Humberto
